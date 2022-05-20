@@ -1,5 +1,0 @@
-{
-  "root": "packages/types",
-  "type": "library",
-  "implicitDependencies": ["@typescript-eslint/ast-spec"]
-}

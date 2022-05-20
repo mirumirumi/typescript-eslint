@@ -1,3 +1,0 @@
-enum Foo {
-    BAR = 'bar'
-}

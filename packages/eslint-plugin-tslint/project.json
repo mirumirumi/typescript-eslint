@@ -1,5 +1,0 @@
-{
-  "root": "packages/eslint-plugin-tslint",
-  "type": "library",
-  "implicitDependencies": []
-}

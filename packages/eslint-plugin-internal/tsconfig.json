@@ -1,9 +1,0 @@
-{
-  "extends": "./tsconfig.build.json",
-  "compilerOptions": {
-    "composite": false,
-    "rootDir": "."
-  },
-  "include": ["src", "typings", "tests"],
-  "references": [{ "path": "../utils/tsconfig.build.json" }]
-}
